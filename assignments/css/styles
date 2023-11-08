@@ -1,0 +1,66 @@
+/* Reset some default browser styles */
+body, h1, h2, h3, h5, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+header h1 center {
+    display: block;
+}
+
+section {
+    margin: 20px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h3 {
+    color: #3498db;
+}
+
+h5 {
+    font-size: 18px;
+    color: #333;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #3498db;
+    color: #fff;
+}
+
+/* Centering text within h1 tags */
+h1, h3 {
+    text-align: center;
+}
+
+/* Centering content within sections */
+section {
+    text-align: center;
+}
+
+/* Add a little spacing between sections */
+section + section {
+    margin-top: 20px;
+}

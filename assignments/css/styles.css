@@ -1,0 +1,49 @@
+body {
+    background-color: aqua;
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    line-height: 1.6;
+}
+
+h1 {
+    text-align: start;
+    font-size: 70px;
+    color: red;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.h3a {
+    text-align: end;
+}
+
+section {
+        margin: 20px;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 5px; 
+}
+
+h2 {
+    font-size: 30px;
+}
+
+
+
+h3 {
+    
+    font-size: 20px;
+}
+
+
+a {
+    text-align: right;
+        margin: 10px;
+        background-color: #dad7d7;
+        padding: 10px;
+        border-radius: 2.5px; 
+}
+
+.h1b {
+    font-size: 25px;
+}

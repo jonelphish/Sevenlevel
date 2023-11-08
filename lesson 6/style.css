@@ -1,0 +1,38 @@
+body {
+    background-color: aquamarine;
+}
+header {
+    background-color: blue;
+    text-align: center;
+    margin: 0;
+    padding: 70px;
+}
+
+aside {
+    background-color: brown;
+    padding: 50px;
+    width: 30;
+    height: 500px;
+    float: left;
+    margin: 10px 0px 0px 10px;
+}
+
+.sub_section1 {
+    background-color: blueviolet;
+    text-align: center;
+    padding: 45px;
+    width: 1260px;
+    height: 50px;
+    float: right;
+    margin: 10px 0px 0px 10px;
+}
+
+.sub_section2 {
+    background-color: black;
+    text-align: center;
+    padding: 30px;
+    width: 500px;
+    height:50px;
+    float: right;
+    margin: 10px 0px 0px 10px;
+}

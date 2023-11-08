@@ -1,0 +1,40 @@
+
+body {
+    background-color: grey;
+}
+h1 {
+    color: red;
+    
+}
+p {
+    color: aquamarine;
+    font-size: medium;
+
+}
+
+.p1 {
+    color: blue;
+    font-size: medium;
+
+}
+
+.p2 {
+    color: black;
+    font-size: medium;
+}
+
+.a1 {
+    color: black;
+}
+
+.a2 {
+    color: red;
+}
+
+.a3 {
+    color: blue;
+}
+
+.a4 {
+    color: greenyellow;
+}
